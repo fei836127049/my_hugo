@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: harfe
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 专业打野三十年
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 家里蹲
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
